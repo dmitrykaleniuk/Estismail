@@ -35,7 +35,7 @@ class EstisAPIclient
                 break;
         }
         return json_decode($result, true);
-        //return $result;
+        
 
     }
 
