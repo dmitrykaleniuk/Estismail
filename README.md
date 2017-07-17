@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Estismail
-=======
-# Estismail-API
+
 
 Example API call
 
@@ -27,4 +24,4 @@ class ClientController extends AppController
 
     }
 }
->>>>>>> 831e0fdeaa8c388f5fab9f3ef26335a89db0fda2
+
